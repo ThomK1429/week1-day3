@@ -1,0 +1,24 @@
+.box { 
+	background-color: #1e5792; /* blue */
+	color: #fff; /* color of the text - white*/
+
+	width: 400px; 
+	height: 440px;
+
+	margin: 10px 30px 20px 50px;
+
+	padding: 25px 10px 30px 20px;
+	/*padding: 5px 40px 80px 120px;*/ /*top, rt, bot, lft */
+
+
+	border-width: 22px;
+	/*border-width: 10px 40px 80px 120px;*/ /*top, rt, bot, lft */
+	border-style: solid;
+	border-color: #113152;
+
+
+
+	
+
+
+}
