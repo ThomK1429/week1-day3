@@ -1,0 +1,86 @@
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+/* Fill in your CSS Below */
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+	font-size: 24:px;
+	line-height: 32px;
+	color: #333;
+
+}
+
+header {
+
+	background: #ccc;
+	padding: 20px;
+	margin-bottom: 20px;
+	color: #333;
+}
+
+section {
+	padding:20px;
+	background-color: #fff;
+	margin-bottom: 20px;
+
+
+	
+}
+
+#left { /* section left */
+	background-color: #666;
+	color: #fff;
+	float: left;
+	width:33.3%;
+}
+
+#middle { /* section middle */
+	background-color: #888;
+	color: white;
+	float: left;
+	width:33.3%;
+}
+
+#right { /* section right */
+	background-color: #666;
+	color: white;
+	float: left;
+	width:33.4%;
+}
+
+#full { /* section #eee */
+	clear: both;
+	background: #eee;
+	width: 100%;
+	overflow: auto;
+}
+
+#division { /* div #6ea3da */
+	background: #6ea3da;
+	padding:  20px;
+	margin-top:   20px;
+}
+
+aside {
+	float: left;
+	background: #fff;
+	width: 33%;
+	height: 200px;
+	margin-left: 30px;
+	padding: 20px;
+	border: 1px solid #eee;
+	/* border: 10px solid #333; */
+}
+
+
+footer {
+	background-color: #ccc;
+	padding: 20px;
+	clear: both;
+}
